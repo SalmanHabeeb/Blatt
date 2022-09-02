@@ -1,5 +1,5 @@
 # Blatt
-A Gradio app to detect plant disease.
+A computer vision application to detect plant disease
 
 ## App
 
