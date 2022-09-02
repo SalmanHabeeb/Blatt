@@ -1,4 +1,7 @@
 # Blatt
+
+> Copyright ©️ 2022 Syed Salman Habeeb Quadri
+
 A computer vision application to detect plant disease
 
 ## App
