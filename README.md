@@ -2,7 +2,7 @@
 
 > Copyright ©️ 2022 Syed Salman Habeeb Quadri
 
-A computer vision application to detect plant disease
+[Blatt](https://huggingface.co/spaces/SalmanHabeeb/Blatt) is a computer vision application to detect plant disease
 
 ## App
 
