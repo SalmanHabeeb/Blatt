@@ -2,6 +2,9 @@
 
 > Copyright ©️ 2022 Syed Salman Habeeb Quadri
 
+![](https://github.com/SalmanHabeeb/Blatt/blob/main/images/frogeye_spots_apple_leaf.jpg)
+![](https://github.com/SalmanHabeeb/Blatt/blob/main/images/Halo-2-3-1080x675.jpg)
+
 [Blatt](https://huggingface.co/spaces/SalmanHabeeb/Blatt) is a computer vision application to detect plant disease
 
 ## Background
@@ -11,8 +14,6 @@ Plant diseases have historically caused famines, sometimes killing millions of p
 However, pesticides are not required in many cases, especially in garden plants. Early detection and treatment of such diseases is sufficient many times.
 
 In this project I use deep learning application to detect plant disease from leaf images. This is a significant improvement over manual detection. The application can detect several diseases in few seconds, and is convenient to use.
-
-Diseases 
 
 ## App
 
