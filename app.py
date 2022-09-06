@@ -1,5 +1,3 @@
-# # # This program is used to detect plant disease.
-
 # # # Copyright ©️ 2022 Syed Salman Habeeb Quadri
 
 # # # This file is part of Blatt.
